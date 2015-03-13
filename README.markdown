@@ -26,7 +26,7 @@ In your `composer.json`:
 ``` json
 {
     "require": {
-        "katzgrau/klogger": "1.0.*"
+        "jimgitsit/klogger": "1.0.*"
     }
 }
 ```
